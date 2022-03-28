@@ -8,3 +8,4 @@ TensorFlow_ImageClassification | Reti Neurali e Classificazione di Immagini | Te
 01_pygame | Videogiochi 2D | PyGame | http://www.pygame.org/ | Clone di Space Invaders già fornito nella libreria, con commenti tradotti e aggiunti
 02_requests | API web (HTTP) | Requests | https://docs.python-requests.org/ | Utility da riga di comando per cercare libri per titolo online
 03_tkinter | GUI (interfacce grafiche) | tkinter | https://docs.python.org/3/library/tkinter.html | Calcolatrice con interfaccia grafica dedicata
+04_opencv | Computer Vision e AI | OpenCV | https://docs.opencv.org/4.x/ | Rilevamento di facce da input della videocamera
