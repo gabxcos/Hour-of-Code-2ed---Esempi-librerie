@@ -9,3 +9,5 @@ TensorFlow_ImageClassification | Reti Neurali e Classificazione di Immagini | Te
 02_requests | API web (HTTP) | Requests | https://docs.python-requests.org/ | Utility da riga di comando per cercare libri per titolo online
 03_tkinter | GUI (interfacce grafiche) | tkinter | https://docs.python.org/3/library/tkinter.html | Calcolatrice con interfaccia grafica dedicata
 04_opencv | Computer Vision e AI | OpenCV | https://docs.opencv.org/4.x/ | Rilevamento di facce da input della videocamera
+05_pygame_pong | Videogiochi - OOP | PyGame | http://www.pygame.org/ | Clone di Pong - OOP costruito ad-hoc per sviluppo
+06_ursina_pong | Videogiochi - OOP | Ursina | https://www.ursinaengine.org/ | Clone di Pong - Integrazione su OOP framework-based già esistente
